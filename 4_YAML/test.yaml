@@ -29,3 +29,5 @@ lista_dois:
  - 10
  - outro teste
  - True
+
+obj: {a: 1, b: 2, c:3}
