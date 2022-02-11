@@ -21,3 +21,5 @@ verdadeiro_dois: On
 
 falso: False
 falso_dois: Off
+
+lista: [1, 2, 3, 4, 5]
