@@ -30,7 +30,7 @@ lista_dois:
  - outro teste
  - True
 
-obj: {a: 1, b: 2, c: 3}
+obj: {a: 1, b: 2, c: 3, objeto_interno: {a: 1}}
 
 objeto:
  a: 1
