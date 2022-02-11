@@ -1,5 +1,5 @@
 CREATE flaskdocker;
-USE fçasldpcler;
+USE flaskdocker;
 
 CREATE TABLE `flaskdocker`,`users` (
     `id` INT NOT NULL AUTO_INCREMENT,
