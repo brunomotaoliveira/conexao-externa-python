@@ -1,6 +1,8 @@
+# Instruções para o programa
 nome: "Bruno"
-idade: 25
+idade: 25 # Esta é a idade do usuário
 
+# Este objeto descreve o nosso projeto
 objeto:
  versao: 2
  arquivo: "teste.txt"
